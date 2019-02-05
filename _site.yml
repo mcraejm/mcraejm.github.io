@@ -2,7 +2,7 @@ name: "my-website"
 output_dir: "."
 
 navbar:
-  title: "My Website"
+  title: "Jontae Dope Website"
   left:
     - text: "Resume"
       href: resume.html
