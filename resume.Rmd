@@ -1,5 +1,31 @@
 ---
-title: "John Doe's Resume"
+title: "Resume"
 ---
+#OBJECTIVE
+To further my education and eventually obtain my masters in I/O psychology. 
 
-Resume content.
+#INVOLVEMENT
+##Phi Beta Sigma 
+###2nd Vice President 
+•	Serve as chair of the Membership                 Recruitment and Retention Committee
+
+•	Provide guidance and consultation in         membership development 
+
+##Event Staff Supervisor 
+•	Work events with my fellow coworkers with set ups and manage well-run, events. 
+
+•	To ensure the safety of all patrons during the event or concert 
+
+•	Communicating with pro-staff to know what it is required for each set-up and whose hosting the event
+
+##I/O Psych Club  
+•	Obtain my knowledge on the field of Industrial and Organizational Psychology 
+
+•	Making events centered around I/O psychology field 
+
+#EDUCATION
+Appalachian State University   2015-present 
+
+Major: Psychology Minor: Statistics 
+
+GPA: 2.82

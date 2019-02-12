@@ -2,14 +2,13 @@ name: "my-website"
 output_dir: "."
 
 navbar:
-  title: "Jontae Dope Website"
+  title: "Jontae McRae"
   left:
     - text: "Resume"
       href: resume.html
-    - text: "Pagetitle"
-      href: pagename.html
-
+    - text: "Links"
+      href: Links.html
 output:
   html_document:
-    theme: default
-    highlight: default
+    theme: flatly
+    highlight: espresso

@@ -1,5 +1,10 @@
 ---
-title: "My Website"
+title: "Psychologist Mind"
+subtitle: "About Me"
 ---
+ 
+Hi! My name is Jontae McRae and I'm a senior graduating december of 2019. Majoring in Psycology with a concentration in social science and a minor in statistics. Im a supervisor at lengends which is a small venue for concerts on campus. I plan on continuing my education to get my masters in I/O psychology.
 
-Hello, Website!
+![](images/Fritz.jpg)
+
+mcraejm@appstate.edu
